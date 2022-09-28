@@ -16,4 +16,56 @@
     <br>
 
 - **Command Pada Git**
-    - Lanjutannya nanti yaa
+    - Membuat Repository <br> 
+    Repository adalah direktori proyek yang kita buat. 1 Repo =  1 Proyek = 1 Direktori
+
+    
+    <br>
+
+    ```
+        git init proyek-01
+    ```
+
+    Command line di atas akan membuat sebuah direktori baru.
+
+    - Mengetahui status dari sebuah repository lokal <br>
+    Git Status berfungsi untuk untuk mengetahui status dari sebuah repository lokal.
+
+    <br>
+
+    ```
+    git status
+    ```
+    ![git status](status.png "git status")
+
+    - Menambahkan file baru pada repository yang dipilih <br>
+    Git add sendiri berfungsi untuk menambahkan file baru pada repository yang dipilih.
+
+    <br>
+
+    ```
+        git add .
+    ```
+    ![git add](add.png "add")
+
+    - Melakukan Commit <br>
+    Git Commit berfungsi untuk melakukan commit atau menyimpan perubahan pada version control pada git. Dan kita bisa menambahkan pesan untuk membeikan checkout pada setiap perbuahan. contohnya "git commit -m "Perubahan data"
+
+    <br>
+
+    ```
+        git commit -m "Perubahan data"
+    ```
+    ![git commit](commit.png "commit")
+
+    - Mempublish file ke github <br>
+    Git Push origin berfungsi untuk mempublish file atau aplikasi ke github.
+
+    <br>
+
+    ```
+        git push origin
+    ```
+    ![git push](push.png "push")
+
+
