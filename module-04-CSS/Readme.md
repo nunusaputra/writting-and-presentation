@@ -100,4 +100,5 @@ CSS Syntax adalah syntax yang digunakan untuk menunjuk atau memilih HTML element
 
 - **Flexbox** <br>
 **Flexbox** adakah mode layout yang ada di CSS3 dan digunakan untuk mengatur elemen di suatu halaman web. Flexbox ini akan mengatur ukuran dari elemen anaknya secara otomatis, dan mampu beradaptasi dengan ukuran container-nya.Tujuan dari flexbox yaitu memberikan container kemampuan untuk mengatur panjang, lebar, dan posisi item-item yang berada di dalamnya agar memaksimalkan ruang yang ada. Pengaturan ini sangat penting bagi seorang frontend developer untuk membuat sebuah website yang nyaman dilihat di berbagai device dengan berbagai macam resolusi. Nah untuk memudahkan kita dalam memahami flexbox, kita dapat belajar melalui media yang lebih interaktif dengan menggunakan **FlexFroggy** seperti gambar di bawah ini. <br><br>
+
 ![Flexbox froggy](frog.png "Flexbox")
