@@ -16,4 +16,4 @@
     <br>
 
 - **Command Pada Git**
-    - Lanjutannya nanti ygy
+    - Lanjutannya nanti yaa
